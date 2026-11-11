@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# As fotos podem ser grandes: deixe só o LEIAME no GitHub e diga de onde baixar.
+dataset/*/

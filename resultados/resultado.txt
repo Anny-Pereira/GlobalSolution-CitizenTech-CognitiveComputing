@@ -1,0 +1,3 @@
+Fotos de teste: 52
+Qual é a fruta: acertou 35 de 52 (67%)
+Saudável ou podre: acertou 40 de 52 (77%)
