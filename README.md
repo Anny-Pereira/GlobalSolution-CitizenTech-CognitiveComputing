@@ -1,8 +1,6 @@
 # Participantes
-Anny I. G. Pereira            | RM553793
-
-Katherine F. V. Rodrigues     | RM552673
-
+Anny Pereira               RM553793
+Katherine Fernandes        RM552673
 
 # Classificador de Frutas para Agricultores
 
