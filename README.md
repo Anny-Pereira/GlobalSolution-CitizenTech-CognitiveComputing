@@ -1,3 +1,8 @@
+# Participantes
+Anny I. G. Pereira            | RM553793
+Katherine F. V. Rodrigues     | RM552673
+
+
 # Classificador de Frutas para Agricultores
 
 Programa de **Visão Computacional** que olha a foto de uma fruta e diz:
